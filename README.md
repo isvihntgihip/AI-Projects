@@ -1,2 +1,2 @@
-# Volatility-Significance-as-Market-Forecaster-
-Hello, This where I try to apply what I have learned in my data management course and find correlation between two variables which would be volatility and return on 1 share of stock over 1Q. 
+# AI-Projects-
+Hello, This github is a list of AI-Projects which I worked on by myself 
